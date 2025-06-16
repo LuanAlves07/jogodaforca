@@ -1,8 +1,6 @@
 # jogodaforca
 
 
-https://github.com/randalgodoy/JogodaForca/blob/main/jogo-da-forca.jpeg![image](https://github.com/user-attachments/assets/69236a04-919d-44a2-a077-241575f8aa21)
-
 
 
 📜 História
